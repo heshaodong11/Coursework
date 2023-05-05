@@ -14,3 +14,6 @@
 #@ godOfWar文件从steam上获取战神4评论数据，然后通过python的Elasticsearch库保存到Elasticsearch搜索引擎中
 
 #@ tt文件读取保存在Elasticsearch引擎中的数据，然后通过pyecharts将数据绘制出来
+
+荒野大镖客2数据来源 https://steamcommunity.com/app/1174180/reviews/?p=1&browsefilter=toprated&filterLanguage=all
+战神4数据来源 https://steamcommunity.com/app/1593500/reviews/?filterLanguage=all&p=1&browsefilter=toprated
